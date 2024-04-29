@@ -1,5 +1,5 @@
 const readline = require('readline');
-let a=30;
+
 
 const rl = readline.createInterface({
   input: process.stdin,
